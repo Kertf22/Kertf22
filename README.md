@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kertf22
-- 👀 I’m interested in codding and how to build functionals aplications.
-- 🌱 I’m currently learning Reactjs, mySQL, Firebase and Next.js
+- 🌱 I’m currently learning how to deal projects integreded with websoket and SQLite and Firebase. Likewise, i'm too working in another project with Reactjs integreded with Firebase and Next.js.
 - 📫 How to reach me https://www.linkedin.com/in/paulo-herc%C3%ADlio-santana-8042311b5/
 
 
