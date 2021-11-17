@@ -10,8 +10,8 @@
 
 <div>
   <a href="https://github.com/Kertf22">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kertf22&&show_icons=true&theme=aura_dark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kertf22&layout=compact&theme=aura_dark">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kertf22&&show_icons=true&theme=aura_dark">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kertf22&layout=compact&theme=aura_dark">
   </a>
 </div> 
 
